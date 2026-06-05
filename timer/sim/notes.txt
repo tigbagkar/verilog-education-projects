@@ -1,0 +1,3 @@
+Написан под Icarus Verilog 
+Если нужно перекомпилировать проект используйте:
+iverilog -g2012 -f files.f -o sim.out
