@@ -1,0 +1,10 @@
+../modules/alu/alu_pkg.sv
+../modules/alu/alu.sv
+../modules/alu_control/alu_control.sv
+../modules/control/control.sv
+../modules/data_mem/data_mem.sv
+../modules/imm_gen/imm_gen.sv
+../modules/instr_mem/instr_mem.sv
+../modules/regfile/regfile.sv
+../cpu.sv
+../tb.sv
